@@ -9,7 +9,7 @@ In this project, I applied the skills I learned from Introduction to Python and 
 - ### Creating a scatter plot
 - ### Digging deeper
 - ### Marking non-feature films
-- ### Plotting with color!
+- ### Plotting with color!!
 
 ## Authors
 
